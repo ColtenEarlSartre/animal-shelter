@@ -18,9 +18,20 @@ body {
 .introbubble {
   background-color: #5c7598;
   width: 30%;
-  padding: 15px;
+  padding: 25px;
+  margin: 15px auto;
+  border-radius: 10px
 }
 
 .introbubble img {
   width: 100%
+}
+
+.introbubble h3 {
+  color: #dadadb;
+}
+
+.column {
+  display: flex;
+  flex-direction: row;
 }
