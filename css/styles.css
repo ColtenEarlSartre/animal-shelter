@@ -1,0 +1,26 @@
+body {
+  background-color: #abb7c8;
+  margin: 0;
+}
+
+.sidebar {
+  border: 1px solid red;
+  width: 18%;
+  height: 100vh;
+  /* float: left; */
+}
+
+.navLink {
+  padding-bottom: px;
+  background-color: red;
+}
+
+.introbubble {
+  background-color: #5c7598;
+  width: 30%;
+  padding: 15px;
+}
+
+.introbubble img {
+  width: 100%
+}
