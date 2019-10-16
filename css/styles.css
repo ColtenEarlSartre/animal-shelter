@@ -35,3 +35,19 @@ body {
   display: flex;
   flex-direction: row;
 }
+
+.headerwrap {
+  text-align: center;
+  background-color: #c2c4b6;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.marquee {
+
+}
+
+.mainimage {
+  text-align: center;
+  margin: 0 auto;
+}
